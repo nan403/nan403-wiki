@@ -22,6 +22,7 @@ echo "${__COMMENTS__}"
 npm install -g gulp > /dev/null
 npm install -g hexo-cli > /dev/null
 npm install
+npm install hexo-deployer-git --save
 
 echo "hexo and packages install complete."
 
