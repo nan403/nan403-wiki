@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Southsala&#39;s Wiki</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wiki.souths.cn/"/>
+  <updated>2018-04-28T05:35:50.000Z</updated>
+  <id>http://wiki.souths.cn/</id>
+  
+  <author>
+    <name>southsala</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Southsala&#39;s Wiki</title>
+    <link href="http://wiki.souths.cn/2018/04/28/index/"/>
+    <id>http://wiki.souths.cn/2018/04/28/index/</id>
+    <published>2018-04-28T05:35:43.000Z</published>
+    <updated>2018-04-28T05:35:50.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>面向对象编程的六大原则</title>
+    <link href="http://wiki.souths.cn/2018/04/28/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Android%E6%BA%90%E7%A0%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%B8%8E%E5%AE%9E%E6%88%98/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E7%9A%84%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99/"/>
+    <id>http://wiki.souths.cn/2018/04/28/读书笔记/Android源码设计模式解析与与实战/面向对象编程的六大原则/</id>
+    <published>2018-04-28T05:35:43.000Z</published>
+    <updated>2018-04-28T05:35:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-单一职责原则——SRP-Single-Responsibility-Principle"><a href="#1-单一职责原则——SRP-Single-Responsibility-Principle" class="headerlink" title="1.单一职责原则——SRP(Single Responsibility Principle)"></a>1.单一职责原则——SRP(Single Responsibility Principle)</h3><p>定义：就一个类而言，应该仅有一个引起它变化的原因<br>简单说，一个类中应该是一组相关性很高的函数、数据的封装<br>最重要的是在实际开发中对职责的定义，什么是类的职责，以及怎么划分类的职责，一个类应当只负责一个职责<br>基本的指导原则：两个完全不一样的功能就不应该放在一个类中。一个类应该是一组相关性很高的函数、数据的封装。<br>工程师可以不断的审视自己的代码，根据具体的业务、功能对类进行相应的拆分，这是优化代码的第一步</p><h3 id="2-开闭原则——OCP-Open-Close-Principle-Java世界最基础的原则"><a href="#2-开闭原则——OCP-Open-Close-Principle-Java世界最基础的原则" class="headerlink" title="2.开闭原则——OCP(Open Close Principle)(Java世界最基础的原则)"></a>2.开闭原则——OCP(Open Close Principle)(Java世界最基础的原则)</h3><p>定义：软件中的对象(类、模块、函数等)应该对于扩展是开放的，但是对于修改是封闭的<br>在软件的生命周期内，因为变化、升级和维护等原因需要对软件原有代码进行修改时，可能会将错误引入原本已经经过测试的近代码中，破坏原有系统。因此，当软件需要变化时，我们应该尽量通过扩展的方式来实现变化，而不是通过修改已有代码来实现<br>可以通过接口进行约束，使用户得以自定义子类</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;1-单一职责原则——SRP-Single-Responsibility-Principle&quot;&gt;&lt;a href=&quot;#1-单一职责原则——SRP-Single-Responsibility-Principle&quot; class=&quot;headerlink&quot; title=&quot;1.
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://wiki.souths.cn/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Android源码设计模式解析与与实战" scheme="http://wiki.souths.cn/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/Android%E6%BA%90%E7%A0%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%B8%8E%E5%AE%9E%E6%88%98/"/>
+    
+    
+  </entry>
+  
+</feed>
