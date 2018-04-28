@@ -132,4 +132,6 @@ theme: Wikitten
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:nan403/nan403-wiki.git
+  branch: gh-pages
